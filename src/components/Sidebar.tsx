@@ -22,7 +22,7 @@ export function Sidebar({ currentView, onNavigate }: SidebarProps) {
       <div className="p-6">
         <h1 className="text-xl font-bold text-white flex items-center gap-2">
           <Fuel className="text-blue-500" />
-          FrotaControl
+          Controle de Frota
         </h1>
         <p className="text-xs text-slate-500 mt-1">Gestão de Abastecimento</p>
       </div>
