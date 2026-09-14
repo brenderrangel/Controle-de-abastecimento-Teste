@@ -1,0 +1,6 @@
+{
+  "name": "Controle de Abastecimento",
+  "description": "Sistema de gerenciamento de frotas e controle de consumo de combustível.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
